@@ -27,14 +27,14 @@ All tasks and practicals are organized according to the topics covered during th
 
 ## 📂 Current Contents
 
-### 🌐 HTML Tasks
+### 🌐 HTML Resourses
 Basic HTML exercises and practical activities completed during the course.
 
-### 🎨 CSS Tasks
+### 🎨 CSS Resourses
 CSS practice files covering styling, layouts, and responsive design concepts.
 
-### 🅱️ Bootstrap Practicals
-Bootstrap exercises focused on responsive layouts and component-based development.
+<!-- ### 🅱️ Bootstrap Practicals
+Bootstrap exercises focused on responsive layouts and component-based development. -->
 
 ---
 
@@ -111,4 +111,4 @@ This repository is available for educational purposes.
 ---
 
 ### 🚀 Learning, Practicing, and Growing in Full-Stack Web Development
-**MarsTech International Campus**
+**- MarsTech International Campus -**
