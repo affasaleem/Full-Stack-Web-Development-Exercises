@@ -1,0 +1,25 @@
+/* 2nd */
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+#green{
+    color: green;
+}
+#yellow{
+    color: yellow;
+}
+/* 3rd */
+.color-title{
+    font-weight: normel;
+}
+/* 4th */
+img{
+    width: 200px;
+    height: 200px;
+}

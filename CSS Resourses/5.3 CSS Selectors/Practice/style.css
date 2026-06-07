@@ -1,0 +1,16 @@
+
+ /* id & class selector
+.classname{
+    color: red;
+}
+#idname{
+    color: blue;
+} */
+ /* Attribute selector 
+ p[draggable=true]{
+    color:red;
+ } */
+  /* Universal selector
+  *{
+    color: blueviolet;
+  } */

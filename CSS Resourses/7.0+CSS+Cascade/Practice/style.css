@@ -1,0 +1,12 @@
+li {
+    color: blue;
+}
+.first-class{
+    color: red;
+}
+li[draggable]{
+    color: purple;
+}
+#first-id{
+    color: orange;
+}

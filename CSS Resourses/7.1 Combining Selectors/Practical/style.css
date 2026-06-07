@@ -1,0 +1,13 @@
+p{
+    color: yellow;
+}
+.inner-box p{
+    color:red;
+}
+.inner-box h2{
+    color:blue;
+}
+/* applying same colors to both selectors */
+h1,h2{
+    color: violet;
+}
