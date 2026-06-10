@@ -1,6 +1,6 @@
-# 💻 Full-Stack Web Development Exercises
+# 💻 Full-Stack Web Development Practicals
 
-Welcome to my **Full-Stack Web Development Exercises** repository!
+Welcome to my **Full-Stack Web Development Practicals** repository!
 
 This repository contains my study tasks, practical exercises, assignments, and hands-on activities completed during my **Full-Stack Web Development** learning journey at **MarsTech International Campus**.
 
@@ -16,7 +16,7 @@ This repository includes:
 - CSS Practical Tasks
 - Bootstrap Practicals
 - Responsive Design Exercises
-- JavaScript Practice (Upcoming)
+- JavaScript Practicals
 - Backend Development Practicals (Upcoming)
 - Database Exercises (Upcoming)
 - Full-Stack Development Projects (Upcoming)
