@@ -12,10 +12,9 @@ The purpose of this repository is to practice web development concepts, strength
 
 This repository includes:
 
-- HTML Exercises & Assignments
-- CSS Practical Tasks
+- HTML Practicals
+- CSS Practical 
 - Bootstrap Practicals
-- Responsive Design Exercises
 - JavaScript Practicals
 - Backend Development Practicals (Upcoming)
 - Database Exercises (Upcoming)
