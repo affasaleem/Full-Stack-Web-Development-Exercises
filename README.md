@@ -26,11 +26,14 @@ All tasks and practicals are organized according to the topics covered during th
 
 ## 📂 Current Contents
 
-### 🌐 HTML Resourses
+### > HTML Practicals
 Basic HTML exercises and practical activities completed during the course.
 
-### 🎨 CSS Resourses
+### > CSS Practicals
 CSS practice files covering styling, layouts, and responsive design concepts.
+
+### > JavaScript Practicals
+Basic JS exercises and practical activities completed during the course.
 
 <!-- ### 🅱️ Bootstrap Practicals
 Bootstrap exercises focused on responsive layouts and component-based development. -->
